@@ -1,7 +1,7 @@
 # University Credit Calculator
 
 ### 소개
-[여기](https://kdjun97.github.io/blog/credit_calculator/)  
+[여기](https://kdjun97.github.io/python/credit-calculator/)  
 
 ### 기능
 본인의 전체 학점, 전공학점, 교양학점, pf학점, 총 평점을 알려준다.  
